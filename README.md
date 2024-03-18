@@ -6,3 +6,5 @@
 Article: https://medium.com/@learnwithwhiteboard_digest/what-is-a-cdn-how-do-cdns-work-410811ea445b
 
 Video Resource: https://www.youtube.com/watch?v=RI9np1LWzqw
+
+React cdn docs: https://legacy.reactjs.org/docs/cdn-links.html
