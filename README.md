@@ -10,3 +10,5 @@ Video Resource: https://www.youtube.com/watch?v=RI9np1LWzqw
 React cdn docs: https://legacy.reactjs.org/docs/cdn-links.html
 
  2- Crossorigin tag in script: https://www.w3schools.com/tags/att_script_crossorigin.asp#:~:text=The%20crossorigin%20attribute%20sets%20the,or%20scripts)%20from%20another%20domain.
+
+Production and Development Dependancy
